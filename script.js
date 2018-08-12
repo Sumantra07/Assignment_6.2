@@ -1,3 +1,4 @@
+/* Objective- Reassigning values to the same variable */
 /*  Assigning values as per the assignmnet problem */
 var recipeName = 'Creamy squash linguine';
 var preparationTime = 45
